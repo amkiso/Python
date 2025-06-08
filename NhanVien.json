@@ -1,0 +1,38 @@
+[
+    {
+        "ma_nv": "NV24000123",
+        "ten_nv": "Nguyễn Văn A",
+        "pban": "Kỹ thuật",
+        "email": "vana@example.com"
+    },
+    {
+        "ma_nv": "NV24000456",
+        "ten_nv": "Trần Thị B",
+        "pban": "Nhân sự",
+        "email": "thib@example.com"
+    },
+    {
+        "ma_nv": "NV240012",
+        "ten_nv": "Amkiso",
+        "pban": "Kinh tế",
+        "email": "hifo@ki.com"
+    },
+    {
+        "ma_nv": "NV240032",
+        "ten_nv": "dha",
+        "pban": "kinh doanh",
+        "email": "dha2@hs.mg"
+    },
+    {
+        "ma_nv": "giko",
+        "ten_nv": "hiko",
+        "pban": "hk",
+        "email": "hiko@gs.jd"
+    },
+  {
+    "ma_nv": "kinhada",
+    "ten_nv": "ad23",
+    "email": "adsa@hfbd.trg",
+    "pban": "ágdhfj"
+  }
+]
